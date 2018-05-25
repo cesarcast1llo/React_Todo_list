@@ -1,0 +1,9 @@
+body {
+    padding: 50px;
+    background-color: rgb(159, 212, 159);
+    font-family: sans-serif;
+    text-align: center;
+  }
+  h1 {
+    color: rgb(1, 44, 1);
+  }
