@@ -3,10 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "eslint": "^6.2.2",
+    "lodash.template": "^4.5.0",
+    "mem": "^5.1.1",
     "react": "^16.4.0",
-    "react-dom": "^16.4.0",
+    "react-dom": "^16.9.0",
     "react-flip-move": "^3.0.2",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "webpack-dev-server": "^3.8.0"
   },
   "scripts": {
     "start": "react-scripts start",
